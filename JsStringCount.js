@@ -1,0 +1,5 @@
+function countWords(sentence)
+  {
+    return sentence.split(" ").length
+  }
+console.log(countWords('Microverse is one of the best online institutes from where one can learn and advance their skills with no upfront fees. The most incredible thing about Microverse is that they help one find a job after the training. Who wouldn\'t love to join Microverse? One of the reasons I believe I am a suitable student for microverse is my passion for learning and programming each time I get a chance. With this, I believe I can overcome any difficulties and solve programming problems and real-world challenges using the programming skills and technologies learned at Microverse. Another reason I make a good student at microverse is my team-building and communication skills. I am good at team building, cooperating, and communicating with teammates. I can\'t wait to work, learn and network with several fellow students from around the globe. Lastly, I believe microverse has the best, organized training course curriculum that I can follow step by step. I can\'t wait to learn from the best mentors. Thank you.'))
